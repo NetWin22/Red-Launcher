@@ -1,0 +1,17 @@
+C:\Users\Limone\source\repos\RedLauncher\RedLauncher\bin\Debug\net10.0-windows\RedLauncher.exe
+C:\Users\Limone\source\repos\RedLauncher\RedLauncher\bin\Debug\net10.0-windows\RedLauncher.deps.json
+C:\Users\Limone\source\repos\RedLauncher\RedLauncher\bin\Debug\net10.0-windows\RedLauncher.runtimeconfig.json
+C:\Users\Limone\source\repos\RedLauncher\RedLauncher\bin\Debug\net10.0-windows\RedLauncher.dll
+C:\Users\Limone\source\repos\RedLauncher\RedLauncher\bin\Debug\net10.0-windows\RedLauncher.pdb
+C:\Users\Limone\source\repos\RedLauncher\RedLauncher\obj\Debug\net10.0-windows\RedLauncher.csproj.GenerateResource.cache
+C:\Users\Limone\source\repos\RedLauncher\RedLauncher\obj\Debug\net10.0-windows\RedLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Limone\source\repos\RedLauncher\RedLauncher\obj\Debug\net10.0-windows\RedLauncher.AssemblyInfoInputs.cache
+C:\Users\Limone\source\repos\RedLauncher\RedLauncher\obj\Debug\net10.0-windows\RedLauncher.AssemblyInfo.cs
+C:\Users\Limone\source\repos\RedLauncher\RedLauncher\obj\Debug\net10.0-windows\RedLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Limone\source\repos\RedLauncher\RedLauncher\obj\Debug\net10.0-windows\RedLauncher.dll
+C:\Users\Limone\source\repos\RedLauncher\RedLauncher\obj\Debug\net10.0-windows\refint\RedLauncher.dll
+C:\Users\Limone\source\repos\RedLauncher\RedLauncher\obj\Debug\net10.0-windows\RedLauncher.pdb
+C:\Users\Limone\source\repos\RedLauncher\RedLauncher\obj\Debug\net10.0-windows\RedLauncher.genruntimeconfig.cache
+C:\Users\Limone\source\repos\RedLauncher\RedLauncher\obj\Debug\net10.0-windows\ref\RedLauncher.dll
+C:\Users\Limone\source\repos\RedLauncher\RedLauncher\obj\Debug\net10.0-windows\RedLauncher.RedLauncher.resources
+C:\Users\Limone\source\repos\RedLauncher\RedLauncher\obj\Debug\net10.0-windows\RedLauncher.Properties.Resources.resources
